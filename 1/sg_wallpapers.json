@@ -1,15 +1,15 @@
 [
    {
       "name":"TVK",
-      "url":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay87.png",
-      "previewUrl":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay87.png",
+      "url":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay86.jpg",
+      "previewUrl":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay86.jpg",
       "categories":"TVK",
-      "premium":true
+      "premium":false
    },
    {
       "name":"TVK",
-      "url":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay86.jpg",
-      "previewUrl":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay86.jpg",
+      "url":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay89.jpg",
+      "previewUrl":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay89.jpg",
       "categories":"TVK",
       "premium":false
    },
@@ -31,6 +31,13 @@
       "name":"TVK",
       "url":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay83.jpg",
       "previewUrl":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay83.jpg",
+      "categories":"TVK",
+      "premium":false
+   },
+   {
+      "name":"TVK",
+      "url":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay88.jpg",
+      "previewUrl":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay88.jpg",
       "categories":"TVK",
       "premium":false
    },
