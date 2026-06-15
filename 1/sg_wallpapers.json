@@ -36,6 +36,13 @@
    },
    {
       "name":"TVK",
+      "url":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay90.jpg",
+      "previewUrl":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay90.jpg",
+      "categories":"TVK",
+      "premium":false
+   },
+   {
+      "name":"TVK",
       "url":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay88.jpg",
       "previewUrl":"https://raw.githubusercontent.com/sgapps1896-alt/SG-Code/refs/heads/main/1/images/vijay88.jpg",
       "categories":"TVK",
