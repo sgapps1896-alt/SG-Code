@@ -1,0 +1,3510 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.sgapps.bubu_panda_stickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "6",
+      "name": "Bubu Panda 1",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Baby",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Bubu Panda 2",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Baby",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Bubu Panda 3",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Baby",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Bubu Panda 4",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Baby",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Bubu Panda 5",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Bubu Panda 6",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Bubu Panda 7",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Bubu Panda 8",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Bubu Panda 9",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "1",
+      "name": "Bubu Panda 10",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Bubu Panda 11",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Bubu Panda 12",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Bubu Panda 13",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Bubu Panda 14",
+      "publisher": "SG Apps",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "Tonton",
+      "stickers": [
+        {
+          "image_file": "sticker01.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker02.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker03.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker04.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker05.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker06.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ]
+        },
+        {
+          "image_file": "sticker07.webp",
+          "emojis": [
+            "❓👍",
+            "👌",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "sticker08.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker09.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker10.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ]
+        },
+        {
+          "image_file": "sticker11.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "sticker12.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ]
+        },
+        {
+          "image_file": "sticker13.webp",
+          "emojis": [
+            "❤️",
+            "🥰",
+            "💕"
+          ]
+        },
+        {
+          "image_file": "sticker14.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ]
+        },
+        {
+          "image_file": "sticker15.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker16.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker17.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker18.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker19.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker20.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker21.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker22.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker23.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker24.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker25.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker26.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker27.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker28.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker29.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "sticker30.webp",
+          "emojis": [
+            "📱",
+            "👯❓",
+            "👋"
+          ]
+        }
+      ]
+    }
+  ]
+}
