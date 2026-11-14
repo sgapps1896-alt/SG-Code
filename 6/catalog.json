@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "categories": [
+    {
+      "id": "baby",
+      "name": "Baby",
+      "packs": "categories/baby.json",
+      "pack_count": 3
+    }
+  ]
+}
