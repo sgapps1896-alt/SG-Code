@@ -8,6 +8,12 @@
       "name": "Baby",
       "packs": "categories/baby.json",
       "pack_count": 10
+    },
+    {
+      "id": "tonton",
+      "name": "Tonton",
+      "packs": "categories/tonton.json",
+      "pack_count": 2
     }
   ]
 }
