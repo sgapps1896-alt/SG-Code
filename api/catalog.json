@@ -32,6 +32,12 @@
       "name": "Chubby Dino",
       "packs": "categories/chubby-dino.json",
       "pack_count": 1
+    },
+    {
+      "id": "cute-girl",
+      "name": "Cute Girl",
+      "packs": "categories/cute-girl.json",
+      "pack_count": 1
     }
   ]
 }
