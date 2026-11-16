@@ -38,6 +38,12 @@
       "name": "Cute Girl",
       "packs": "categories/cute-girl.json",
       "pack_count": 1
+    },
+    {
+      "id": "text",
+      "name": "Text",
+      "packs": "categories/text.json",
+      "pack_count": 2
     }
   ]
 }
