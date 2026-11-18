@@ -8,6 +8,12 @@
       "name": "Tonton",
       "packs": "categories/tonton.json",
       "pack_count": 1
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "packs": "categories/christmas.json",
+      "pack_count": 1
     }
   ]
 }
