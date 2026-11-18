@@ -391,6 +391,202 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "6",
+      "name": "BTS 2",
+      "publisher": "SG Apps",
+      "tray_image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "BTS",
+      "stickers": [
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker13.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker14.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker15.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker16.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker17.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker18.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker19.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker20.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker21.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker22.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker23.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker24.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker25.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker26.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker27.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker28.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker29.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "https://cdn.jsdelivr.net/gh/sgapps1896-alt/SG-Code@main/6/6/sticker30.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
     }
   ]
 }
