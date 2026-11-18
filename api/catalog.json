@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "categories": [
+    {
+      "id": "baby",
+      "name": "Baby",
+      "packs": "categories/baby.json",
+      "pack_count": 8
+    },
+    {
+      "id": "tonton",
+      "name": "Tonton",
+      "packs": "categories/tonton.json",
+      "pack_count": 3
+    },
+    {
+      "id": "bull-dog",
+      "name": "Bull Dog",
+      "packs": "categories/bull-dog.json",
+      "pack_count": 1
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "packs": "categories/christmas.json",
+      "pack_count": 1
+    },
+    {
+      "id": "chubby-dino",
+      "name": "Chubby Dino",
+      "packs": "categories/chubby-dino.json",
+      "pack_count": 1
+    },
+    {
+      "id": "cute-girl",
+      "name": "Cute Girl",
+      "packs": "categories/cute-girl.json",
+      "pack_count": 1
+    },
+    {
+      "id": "text",
+      "name": "Text",
+      "packs": "categories/text.json",
+      "pack_count": 2
+    },
+    {
+      "id": "emoji",
+      "name": "Emoji",
+      "packs": "categories/emoji.json",
+      "pack_count": 1
+    }
+  ]
+}
