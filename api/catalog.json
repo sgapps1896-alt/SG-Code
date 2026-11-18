@@ -7,7 +7,7 @@
       "id": "baby",
       "name": "Baby",
       "packs": "categories/baby.json",
-      "pack_count": 8
+      "pack_count": 7
     },
     {
       "id": "tonton",
@@ -28,27 +28,21 @@
       "pack_count": 1
     },
     {
-      "id": "chubby-dino",
-      "name": "Chubby Dino",
-      "packs": "categories/chubby-dino.json",
-      "pack_count": 1
-    },
-    {
-      "id": "cute-girl",
-      "name": "Cute Girl",
-      "packs": "categories/cute-girl.json",
-      "pack_count": 1
-    },
-    {
       "id": "text",
       "name": "Text",
       "packs": "categories/text.json",
-      "pack_count": 2
+      "pack_count": 1
     },
     {
       "id": "emoji",
       "name": "Emoji",
       "packs": "categories/emoji.json",
+      "pack_count": 1
+    },
+    {
+      "id": "hamster",
+      "name": "Hamster",
+      "packs": "categories/hamster.json",
       "pack_count": 1
     }
   ]
