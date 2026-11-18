@@ -7,13 +7,13 @@
       "id": "baby",
       "name": "Baby",
       "packs": "categories/baby.json",
-      "pack_count": 7
+      "pack_count": 8
     },
     {
       "id": "tonton",
       "name": "Tonton",
       "packs": "categories/tonton.json",
-      "pack_count": 2
+      "pack_count": 3
     },
     {
       "id": "bull-dog",
@@ -49,6 +49,12 @@
       "id": "emoji",
       "name": "Emoji",
       "packs": "categories/emoji.json",
+      "pack_count": 1
+    },
+    {
+      "id": "hamster",
+      "name": "Hamster",
+      "packs": "categories/hamster.json",
       "pack_count": 1
     }
   ]
