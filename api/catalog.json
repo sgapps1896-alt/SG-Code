@@ -20,6 +20,12 @@
       "name": "Elephant",
       "packs": "categories/elephant.json",
       "pack_count": 1
+    },
+    {
+      "id": "bts",
+      "name": "BTS",
+      "packs": "categories/bts.json",
+      "pack_count": 1
     }
   ]
 }
