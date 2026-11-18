@@ -14,6 +14,12 @@
       "name": "Tonton",
       "packs": "categories/tonton.json",
       "pack_count": 1
+    },
+    {
+      "id": "elephant",
+      "name": "Elephant",
+      "packs": "categories/elephant.json",
+      "pack_count": 1
     }
   ]
 }
