@@ -195,6 +195,202 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "5",
+      "name": "BTS 1",
+      "publisher": "SG Apps",
+      "tray_image_file": "5/tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "category": "BTS",
+      "stickers": [
+        {
+          "image_file": "5/sticker01.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker02.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker03.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker04.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker05.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker06.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker07.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker08.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker09.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker10.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker11.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker12.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker13.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker14.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker15.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker16.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker17.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker18.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker19.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker20.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker21.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker22.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker23.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker24.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker25.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker26.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker27.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker28.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker29.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5/sticker30.webp",
+          "emojis": [
+            "😀"
+          ]
+        }
+      ]
     }
   ]
 }
