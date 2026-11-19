@@ -13,13 +13,13 @@
       "id": "christmas",
       "name": "Christmas",
       "packs": "categories/christmas.json",
-      "pack_count": 4
+      "pack_count": 11
     },
     {
       "id": "tonton",
       "name": "Tonton",
       "packs": "categories/tonton.json",
-      "pack_count": 5
+      "pack_count": 10
     }
   ]
 }
